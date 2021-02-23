@@ -95,6 +95,7 @@
 * [策略易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/StrategyEase-Python-SDK)）  - 管理交易客户端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台策略自动化解决方案
 * [IB API | Interactive Brokers](https://www.interactivebrokers.com.hk/cn/index.php?f=5234&ns=T) - 盈透证券的交易API
 * [FutunnOpen/futuquant](https://github.com/FutunnOpen/futuquant) - 富途量化平台 API
+* [zetatez/evolving](https://github.com/zetatez/evolving) - Macos下控制同花顺进行交易 API
 
 
 ## 编程
